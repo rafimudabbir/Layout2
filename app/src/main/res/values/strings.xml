@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout 2</string>
+    <string name="start_an_activity">[Start an Activity]</string>
+    <string name="profile">Profile</string>
+    <string name="documents">Documents</string>
+    <string name="activity_feed">Activity Feed</string>
+</resources>

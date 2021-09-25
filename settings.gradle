@@ -1,0 +1,2 @@
+rootProject.name = "Layout 2"
+include ':app'
